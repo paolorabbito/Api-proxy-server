@@ -5,7 +5,7 @@ This is a proxy-server side project that hide the api-key to the client, limit t
 
 Public folder => client side of the application
 
-###How to use:
+### How to use:<br>
 Clone this repository
 
 To install all the requirements you can run:
