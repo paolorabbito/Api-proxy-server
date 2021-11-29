@@ -28,3 +28,5 @@ node app.js
 
 In a brower go to "http://localhost:3000/
 You'll be redirected to public entry point as you running client side app.
+
+Style used for the form: https://codepen.io/frytyler/pen/EGdtg
