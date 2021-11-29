@@ -1,0 +1,21 @@
+{
+  "name": "api-proxy-server",
+  "version": "1.0.0",
+  "description": "A simple proxy server to hide API key to the client",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Rabbito Paolo",
+  "license": "MIT",
+  "dependencies": {
+    "apicache": "^1.6.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.5.1",
+    "needle": "^3.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
