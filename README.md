@@ -8,6 +8,8 @@ Public folder => client side of the application
 ### How to use:<br>
 Clone this repository
 
+Add your api key in .env file
+
 To install all the requirements you can run:
 
 ```bash
